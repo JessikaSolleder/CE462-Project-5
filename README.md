@@ -23,7 +23,6 @@ This project will do the following:
 - Compute the weight of the sliding mass (Wm)
 - Compute the factor of safety for the average values
 - Compute the probability of failure for 10 simulations using a normal distribution. Plot the histogram for the factor of safety values.
-- distribution. 
 - Compute the probability of failure for 100 simulations using a normal distribution. Plot the histogram for the factor of safety values.
 - Compute the probability of failure for 1000 simulations using a normal distribution. Plot the histogram for the factor of safety values.
 
