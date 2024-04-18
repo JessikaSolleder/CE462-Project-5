@@ -35,7 +35,9 @@ of failure for the slope. How many simulations do you feel are necessary to obta
 reliable value of the probability of failure?
 
 Assumptions:
-- Standard deviation for cohesion (c):
-- Standard deviation for angle of internal friction (𝜙):
-- Standard deviation for unit weight (𝛾):
+- Standard deviation for cohesion (c): 30% (COV)
+- Standard deviation for angle of internal friction (𝜙): 13% (COV)
+- Standard deviation for unit weight (𝛾): 5% (COV)
+
+![image](https://github.com/JessikaSolleder/CE462-Project-5/assets/156147848/c40a9ed7-c669-4458-a592-467c47723715)
 
